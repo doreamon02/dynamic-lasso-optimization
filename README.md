@@ -49,12 +49,8 @@ The results show that:
 - Pandas  
 - Scikit-learn  
 - Matplotlib  
-
----
-
 ## How to Run
-
 Clone the repository:
 ```bash
-git clone <your-repo-link>
-cd <your-repo-folder>
+git clone https://github.com/doreamon02/dynamic-lasso-optimization.git
+cd dynamic-lasso-optimization
